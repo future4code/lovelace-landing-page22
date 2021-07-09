@@ -1,7 +1,4 @@
 
-/* PROBLEMAS IDENTIFICADOS ... TEMOS DUAS TAGS IGUAIS <p> ... Eu não criei um General Container e a Clarice criou */
-
-
 * {
   margin: 0;
   padding: 0;
@@ -16,9 +13,9 @@
   background-color: white;
   justify-content: center;
   align-items: center;
-  height: 500px;
-  margin-top: 15px;
-  margin-bottom: 15px;
+  height: 550px;
+  margin-top: 0px;
+  margin-bottom: 20px;
   
 
 }
@@ -61,6 +58,7 @@ p {
   font-size: 2em;
   color: #593527;
   text-align: center;
+  text-decoration: none;
   
 }
 
@@ -79,20 +77,20 @@ p {
 
 /*header*/
 
-  h2, p {
+  h2 {   
     padding: 8px;
+    text-decoration: none;
   }
   
-  .general-container {
+  /* .general-container {
     display: flex;
     flex-direction: column;
     height: 93vh;
-  }
+  } */
   
   header {
     display: flex;
     background-color: #8C675A;
-    justify-content: space-between;
     align-items: center;
     justify-content: flex-start;
     padding: 0 20px;
@@ -118,9 +116,109 @@ p {
   footer {
     background-color: #8C675A;
     display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
-    grid-column: 1 / -1;
+    margin-top: 65px;
+    height: 60px;
+   
   }
+
+  a{ text-decoration: none;
+    color:black;
+  }
+
+  .banner-peq-chef, .banner-peq-entrega, .banner-peq-natural {
+    justify-content: center;
+    align-items: center;
+    
+  } 
+  
+  
+  
+  
+  
+    /* --------------------  MEDIA QUERY - Responsividade  ----------------------- */
+  
+    @media screen and (min-device-width : 320px) and (max-device-width : 480px) {
+      /* celulares */
+        
+          .banner-chef {
+            display: none;
+          }
+
+          header {
+            display: flex;
+            background-color: #8C675A;
+            align-items: center;
+            justify-content: space-evenly;
+            padding: 0;
+            height: 60px;
+          }
+          
+          nav {
+            justify-content: space-between;
+            align-items: center;
+            font-size: 15px;
+            margin: 0px
+            
+          }
+
+          .icone-e-texto {
+            display: none;
+          }
+
+          footer {
+            
+            text-align: center;
+                  }          
+            
+          .foto-compra-online {
+             width: 100%;
+             height: 55%;
+             margin-top: 30px;
+             margin-bottom: 30px;
+                  }
+
+          .foto-prato {
+            width: 100%;
+            height: 35%;
+            margin-top: 25px;
+            margin-bottom: 25px;
+}
+          .container-compre-online {
+            height: 900px;
+}
+          .container-clube-chef {
+            height: 900px;
+          }
+
+
+          
+      }
+  
+      @media screen and (min-device-width : 481px) and (max-device-width : 800px) {
+      /* tablets */
+        .banner-chef {
+          display: none;
+      }
+      }
+  
+      @media screen and (min-device-width : 1280px) {
+      /* computadores */
+        .banner-peq-chef  {
+          display: none;
+        }
+  
+        .banner-peq-entrega {
+          display: none;
+        }
+  
+        .banner-peq-natural {
+          display: none;
+        }
+  
+  
+      }
+  
+
 
