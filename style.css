@@ -1,85 +1,82 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* PROBLEMAS IDENTIFICADOS ... TEMOS DUAS TAGS IGUAIS <p> ... Eu não criei um General Container e a Clarice criou */
 
 
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+                         /* >>>>>   MAIN   <<<<< */
+
+.container-logo {
+  display: flex;
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  
+
+}
+
+.container-compre-online {
+  display: flex;
+  flex-direction: column;
+  background-color: #F2F2F2;
+  justify-content: center;
+  align-items: center;
+  height: 620px;
+}
+
+.foto-compra-online {
+  width: 40%;
+  height: 75%;
+  margin-top: 15px;
+}
+
+.container-clube-chef {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+  height: 620px;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+.foto-prato {
+  width: 25%;
+  height: 50%;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+p {
+  font-family: Montserrat;
+  font-size: 2em;
+  color: #593527;
+  text-align: center;
+  
+}
+
+.fonte-2 {
+  font-family: Montserrat;
+  font-size: 40px;
+  color: #592411;
+  text-align: center;
+  margin-top: 40px;
+}
+
+
+
+
+/*   Daqui para baixo = Código da Clarice */
+
 /*header*/
 
   h2, p {
@@ -126,3 +123,4 @@
     align-items: center;
     grid-column: 1 / -1;
   }
+
