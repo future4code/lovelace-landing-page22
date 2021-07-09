@@ -1,0 +1,128 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+/*header*/
+
+  h2, p {
+    padding: 8px;
+  }
+  
+  .general-container {
+    display: flex;
+    flex-direction: column;
+    height: 93vh;
+  }
+  
+  header {
+    display: flex;
+    background-color: #8C675A;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0 20px;
+    height: 60px;
+  }
+  
+  .icone {
+    width: 3em;
+    margin-right: 12px;
+  }
+  
+  .icone-e-texto { 
+    display: flex;
+    align-items: center;
+  }
+  nav{
+   display: flex;
+  margin-left: 50px;
+  
+  }
+
+/*footer*/
+  footer {
+    background-color: #8C675A;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    grid-column: 1 / -1;
+  }
