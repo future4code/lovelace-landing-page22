@@ -4,7 +4,9 @@
 
 Rede de supermercados que está buscando se digitalizar criando um sistema de compras e entregas recorrentes por aplicativo.
 
->> Link do Surge:  breezy-learning.surge.sh
+>> Link do Surge:  
+
+breezy-learning.surge.sh
 
 >> O que funciona:
 - Alta responsividade para desktop (1280px de largura).
