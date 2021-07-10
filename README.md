@@ -19,7 +19,7 @@ breezy-learning.surge.sh
 
 >> O que não funciona:
 - Média responsividade para iPhone 6/7/8
-- Ausência de ícones das Redes Sociais
+- Ausência dos ícones das Redes Sociais
 
 
 >> Desenvolvedores:
