@@ -21,6 +21,7 @@ Rede de supermercados que está buscando se digitalizar criando um sistema de co
 
 
 >> Desenvolvedores:
+
 Clarice Medeiros Passos;
 Cibele Francisca Ferreira Santana;
 Rafael Fernandes Machado;
