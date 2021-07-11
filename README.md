@@ -44,8 +44,6 @@ Rede de supermercados que está buscando se digitalizar criando um sistema de co
 
 
 
-- Segue a semântica do **HTML5**:
-
 - **Links** para as redes sociais (Facebook e Instagram):
 <div align="center">
 <img src="https://user-images.githubusercontent.com/83221226/125206134-f9749300-e25b-11eb-9859-fdc5ba86baa1.png" width="700px" />
@@ -75,6 +73,10 @@ Rede de supermercados que está buscando se digitalizar criando um sistema de co
 <div align="center">
 <img src="https://user-images.githubusercontent.com/83221226/125206551-4a858680-e25e-11eb-995c-f111b2b6c843.png" width="700px" />
 </div>
+
+
+
+- Segue a semântica do **HTML5**
 
 
 
