@@ -10,6 +10,10 @@ breezy-learning.surge.sh
 
 >> O que funciona:
 - Alta responsividade para desktop (1280px de largura).
+
+div align="center"
+img src="https://user-images.githubusercontent.com/83221226/125206119-e2ce3c00-e25b-11eb-96ee-7406c4503659.png" width="300px" /
+
 - Segue a semântica do HTML5
 - Links para as redes sociais
 - Redes sociais abrem em uma nova aba
