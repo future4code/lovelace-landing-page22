@@ -33,6 +33,7 @@ Rede de supermercados que está buscando se digitalizar criando um sistema de co
 </div>
 
 
+
 - Redes sociais abrem em uma nova aba:
 <div align="center">
 <img src="https://user-images.githubusercontent.com/83221226/125206143-009ba100-e25c-11eb-92ee-c994be337f2f.png" width="700px" />
@@ -43,10 +44,13 @@ Rede de supermercados que está buscando se digitalizar criando um sistema de co
 </div>
 
 
+
 - Paleta de cores baseada na logomarca provida pelo cliente:
 <div align="center">
 <img src="https://user-images.githubusercontent.com/83221226/125208234-b91b1200-e267-11eb-955d-390c9931a9e7.png" width="300px" />
 </div>
+
+
 
 - Duas seções diferentes (home e serviços):
 <div align="center">
@@ -56,10 +60,14 @@ Rede de supermercados que está buscando se digitalizar criando um sistema de co
 >> ## O que não funciona:
 - Média responsividade para iPhone 6/7/8:
 
+
+
+
 - Ausência dos ícones das Redes Sociais:
 <div align="center">
 <img src="https://user-images.githubusercontent.com/83221226/125206134-f9749300-e25b-11eb-9859-fdc5ba86baa1.png" width="700px" />
 </div>
+
 
 
 >> ## Desenvolvedores:
@@ -67,4 +75,7 @@ Rede de supermercados que está buscando se digitalizar criando um sistema de co
 Clarice Medeiros Passos;
 Cibele Francisca Ferreira Santana;
 Rafael Fernandes Machado;
+
+
+
 
