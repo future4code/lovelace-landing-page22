@@ -4,27 +4,57 @@
 
 Rede de supermercados que está buscando se digitalizar criando um sistema de compras e entregas recorrentes por aplicativo.
 
->> Link do Surge:  
+>> [Link do Surge]:  
 
 breezy-learning.surge.sh
 
 >> O que funciona:
-- Alta responsividade para desktop (1280px de largura).
+- Alta responsividade para desktop
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/83221226/125206119-e2ce3c00-e25b-11eb-96ee-7406c4503659.png" width="300px" />
+<img src="https://user-images.githubusercontent.com/83221226/125206119-e2ce3c00-e25b-11eb-96ee-7406c4503659.png" width="700px" />
 </div>
 
-- Segue a semântica do HTML5
-- Links para as redes sociais
-- Redes sociais abrem em uma nova aba
-- Paleta de cores baseada na logomarca provida pelo cliente
-- Duas seções diferentes (home e serviços)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/83221226/125206126-ea8de080-e25b-11eb-959d-877022b1f5e8.png" width="700px" />
+</div>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/83221226/125206130-ef529480-e25b-11eb-8a3f-b34fb6a871e8.png" width="700px" />
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/83221226/125206134-f9749300-e25b-11eb-9859-fdc5ba86baa1.png" width="700px" />
+</div>
+
+
+- Segue a semântica do HTML5
+
+- Links para as redes sociais
+<div align="center">
+<img src="https://user-images.githubusercontent.com/83221226/125206143-009ba100-e25c-11eb-92ee-c994be337f2f.png" width="700px" />
+</div>
+
+
+- Redes sociais abrem em uma nova aba
+<div align="center">
+<img src="https://user-images.githubusercontent.com/83221226/125206147-042f2800-e25c-11eb-82d2-905383117dd3.png" width="700px" />
+</div>
+
+- Paleta de cores baseada na logomarca provida pelo cliente
+
+- Duas seções diferentes (home e serviços)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/83221226/125206551-4a858680-e25e-11eb-995c-f111b2b6c843.png" width="700px" />
+</div>
 
 >> O que não funciona:
 - Média responsividade para iPhone 6/7/8
+
 - Ausência dos ícones das Redes Sociais
+<div align="center">
+<img src="https://user-images.githubusercontent.com/83221226/125206134-f9749300-e25b-11eb-9859-fdc5ba86baa1.png" width="700px" />
+</div>
 
 
 >> Desenvolvedores:
