@@ -57,6 +57,8 @@ Rede de supermercados que está buscando se digitalizar criando um sistema de co
 <img src="https://user-images.githubusercontent.com/83221226/125206551-4a858680-e25e-11eb-995c-f111b2b6c843.png" width="700px" />
 </div>
 
+
+
 >> ## O que não funciona:
 - Média responsividade para iPhone 6/7/8:
 
