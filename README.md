@@ -6,9 +6,9 @@ Rede de supermercados que está buscando se digitalizar criando um sistema de co
 
 >> ## Link do Surge: 
 
-<a href="breezy-learning.surge.sh">Visualize a página aqui</a>
+<a href="breezy-learning.surge.sh">Visualize a página di surge aqui</a>
 
-<a href="https://www.youtube.com/">Testando link aleatório</a>
+<a href="https://www.youtube.com/">Testando link aleatório que funciona</a>
 
 >> ## O que funciona:
 - Alta responsividade para desktop
