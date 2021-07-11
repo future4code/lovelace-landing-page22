@@ -73,6 +73,7 @@ Rede de supermercados que está buscando se digitalizar criando um sistema de co
 >> ## Desenvolvedores:
 
 Clarice Medeiros Passos;
+<div align="left">
 <img src="https://user-images.githubusercontent.com/83221226/125208496-3004da80-e269-11eb-9575-fc769274a6be.png" width="200px" />
 
 Cibele Francisca Ferreira Santana;
