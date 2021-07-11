@@ -45,7 +45,7 @@ Rede de supermercados que está buscando se digitalizar criando um sistema de co
 
 - Paleta de cores baseada na logomarca provida pelo cliente:
 <div align="center">
-<img src="https://user-images.githubusercontent.com/83221226/125208234-b91b1200-e267-11eb-955d-390c9931a9e7.png" width="700px" />
+<img src="https://user-images.githubusercontent.com/83221226/125208234-b91b1200-e267-11eb-955d-390c9931a9e7.png" width="300px" />
 </div>
 
 - Duas seções diferentes (home e serviços):
