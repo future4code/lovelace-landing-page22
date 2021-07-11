@@ -69,7 +69,7 @@ Rede de supermercados que está buscando se digitalizar criando um sistema de co
 
 
 
-- Duas sessões diferentes (**home** e **serviços**):
+- Duas seções diferentes (**home** e **serviços**):
 <div align="center">
 <img src="https://user-images.githubusercontent.com/83221226/125206551-4a858680-e25e-11eb-995c-f111b2b6c843.png" width="700px" />
 </div>
