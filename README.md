@@ -23,20 +23,21 @@ breezy-learning.surge.sh
 <img src="https://user-images.githubusercontent.com/83221226/125206130-ef529480-e25b-11eb-8a3f-b34fb6a871e8.png" width="700px" />
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/83221226/125206134-f9749300-e25b-11eb-9859-fdc5ba86baa1.png" width="700px" />
-</div>
 
 
 - Segue a semântica do HTML5
 
 - Links para as redes sociais
 <div align="center">
-<img src="https://user-images.githubusercontent.com/83221226/125206143-009ba100-e25c-11eb-92ee-c994be337f2f.png" width="700px" />
+<img src="https://user-images.githubusercontent.com/83221226/125206134-f9749300-e25b-11eb-9859-fdc5ba86baa1.png" width="700px" />
 </div>
 
 
 - Redes sociais abrem em uma nova aba
+<div align="center">
+<img src="https://user-images.githubusercontent.com/83221226/125206143-009ba100-e25c-11eb-92ee-c994be337f2f.png" width="700px" />
+</div>
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/83221226/125206147-042f2800-e25c-11eb-82d2-905383117dd3.png" width="700px" />
 </div>
