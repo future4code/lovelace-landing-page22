@@ -72,16 +72,37 @@ Rede de supermercados que está buscando se digitalizar criando um sistema de co
 
 >> ## Desenvolvedores:
 
+<p>Nome e foto dos Desenvolvedores</p>
+<table>
+  <colgroup>
+    <col class="column1">
+    <col class="columns2plus3" span="2">
+  </colgroup>
+  <tr>
+    <th>Clarice</th>
+    <th>Cibele</th>
+    <th>Rafael</th>
+  </tr>
+  <tr>
+    <td>Green</td>
+    <td>Yellow</td>
+    <td>Orange</td>
+  </tr>
+</table>
+
+
+
 Clarice Medeiros Passos;
 <div align="left">
 <img src="https://user-images.githubusercontent.com/83221226/125208496-3004da80-e269-11eb-9575-fc769274a6be.png" width="200px" />
 
 Cibele Francisca Ferreira Santana;
-<div align="center">
+<div align="left">
 <img src="https://user-images.githubusercontent.com/83221226/125208495-2ed3ad80-e269-11eb-8237-4cf08e745755.png" width="200px" />
 </div>
+  
 Rafael Fernandes Machado;
-<div align="center">
+<div align="left">
 <img src="https://user-images.githubusercontent.com/83221226/125208497-3004da80-e269-11eb-9210-ff78820ef089.png" width="200px" />
 </div>
 
