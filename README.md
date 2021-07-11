@@ -9,7 +9,7 @@ Rede de supermercados que está buscando se digitalizar criando um sistema de co
 <a href="https://breezy-learning.surge.sh/">Visualize a página do projeto aqui</a>
 
 >> ## O que funciona:
-- Alta responsividade para desktop:
+- Alta **responsividade** para desktop:
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/83221226/125206119-e2ce3c00-e25b-11eb-96ee-7406c4503659.png" width="700px" />
@@ -25,16 +25,16 @@ Rede de supermercados que está buscando se digitalizar criando um sistema de co
 
 
 
-- Segue a semântica do HTML5:
+- Segue a semântica do **HTML5**:
 
-- Links para as redes sociais (Facebook e Instagram):
+- **Links** para as redes sociais (Facebook e Instagram):
 <div align="center">
 <img src="https://user-images.githubusercontent.com/83221226/125206134-f9749300-e25b-11eb-9859-fdc5ba86baa1.png" width="700px" />
 </div>
 
 
 
-- Redes sociais abrem em uma nova aba:
+- Redes sociais abrem em uma **nova aba**:
 <div align="center">
 <img src="https://user-images.githubusercontent.com/83221226/125206143-009ba100-e25c-11eb-92ee-c994be337f2f.png" width="700px" />
 </div>
@@ -45,27 +45,27 @@ Rede de supermercados que está buscando se digitalizar criando um sistema de co
 
 
 
-- Paleta de cores baseada na logomarca provida pelo cliente:
+- **Paleta de cores** baseada na logomarca provida pelo cliente:
 <div align="center">
 <img src="https://user-images.githubusercontent.com/83221226/125208234-b91b1200-e267-11eb-955d-390c9931a9e7.png" width="300px" />
 </div>
 
 
 
-- Duas seções diferentes (home e serviços):
+- Duas sessões diferentes (**home** e **serviços**):
 <div align="center">
 <img src="https://user-images.githubusercontent.com/83221226/125206551-4a858680-e25e-11eb-995c-f111b2b6c843.png" width="700px" />
 </div>
 
 
 
->> ## O que não funciona:
+>> ## O que **não** funciona:
 - Média responsividade para iPhone 6/7/8:
 
 
 
 
-- Ausência dos ícones das Redes Sociais:
+- Ausência dos **ícones** das Redes Sociais:
 <div align="center">
 <img src="https://user-images.githubusercontent.com/83221226/125206134-f9749300-e25b-11eb-9859-fdc5ba86baa1.png" width="700px" />
 </div>
