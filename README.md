@@ -6,7 +6,7 @@ Rede de supermercados que está buscando se digitalizar criando um sistema de co
 
 >> Link do Surge: breezy-learning.surge.sh
 
->> O que funciona:
+>> ## O que funciona:
 - Alta responsividade para desktop
 
 <div align="center">
@@ -47,7 +47,7 @@ Rede de supermercados que está buscando se digitalizar criando um sistema de co
 <img src="https://user-images.githubusercontent.com/83221226/125206551-4a858680-e25e-11eb-995c-f111b2b6c843.png" width="700px" />
 </div>
 
->> O que não funciona:
+>> ## O que não funciona:
 - Média responsividade para iPhone 6/7/8
 
 - Ausência dos ícones das Redes Sociais
@@ -56,7 +56,7 @@ Rede de supermercados que está buscando se digitalizar criando um sistema de co
 </div>
 
 
->> Desenvolvedores:
+>> ## Desenvolvedores:
 
 Clarice Medeiros Passos;
 Cibele Francisca Ferreira Santana;
