@@ -9,7 +9,8 @@ Rede de supermercados que está buscando se digitalizar criando um sistema de co
 <a href="https://breezy-learning.surge.sh/">Visualize a página do projeto aqui</a>
 
 >> ## O que funciona:
-- Alta **responsividade** para desktop:
+
+- Alta **responsividade** para **desktop**:
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/83221226/125206119-e2ce3c00-e25b-11eb-96ee-7406c4503659.png" width="700px" />
@@ -21,6 +22,24 @@ Rede de supermercados que está buscando se digitalizar criando um sistema de co
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/83221226/125206130-ef529480-e25b-11eb-8a3f-b34fb6a871e8.png" width="700px" />
+</div>
+
+- Boa **responsividade** para **iPhone 6/7/8**:
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/83221226/125211763-0e165280-e27f-11eb-9fb5-d828bf52f6c4.png" width="700px" />
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/83221226/125211765-0fe01600-e27f-11eb-9183-7e94ca8d0439.png" width="700px" />
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/83221226/125211766-1078ac80-e27f-11eb-9b1d-cc669f408dd2.png" width="700px" />
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/83221226/125211764-0f477f80-e27f-11eb-9738-a6cbc3e267a3.png" width="700px" />
 </div>
 
 
@@ -60,10 +79,6 @@ Rede de supermercados que está buscando se digitalizar criando um sistema de co
 
 
 >> ## O que **não** funciona:
-- Média responsividade para iPhone 6/7/8:
-
-
-
 
 - Ausência dos **ícones** das Redes Sociais:
 <div align="center">
